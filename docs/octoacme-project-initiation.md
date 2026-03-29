@@ -36,6 +36,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
 
+> For a comprehensive handoff checklist covering the full initiation-to-planning transition, see [Process Checklists — Kickoff Checklist](./octoacme-process-checklists.md#1-kickoff-checklist-initiation--planning-handoff).
+
 ## Decision Gate
 Move to planning when:
 - Success metrics are clear

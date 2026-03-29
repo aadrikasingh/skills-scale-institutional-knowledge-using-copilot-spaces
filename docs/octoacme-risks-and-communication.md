@@ -24,6 +24,8 @@ Maintain a simple table with:
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
 
+> For a step-by-step weekly status checklist, see [Process Checklists — Stakeholder Update Checklist](./octoacme-process-checklists.md#3-stakeholder-update-checklist-weekly-status).
+
 ## Communication Templates
 Weekly Status Template:
 - Progress this week:

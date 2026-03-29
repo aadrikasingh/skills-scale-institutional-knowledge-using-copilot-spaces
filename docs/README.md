@@ -22,3 +22,5 @@ Quality assurance is built into both day-to-day execution and release readiness.
 - [Release & Deployment](./octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](./octoacme-roles-and-personas.md)
+- [RACI Ownership Matrix](./octoacme-raci-matrix.md)
+- [Process Checklists](./octoacme-process-checklists.md)

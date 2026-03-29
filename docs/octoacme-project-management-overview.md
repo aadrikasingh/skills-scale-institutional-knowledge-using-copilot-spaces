@@ -17,8 +17,16 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
+- Release Manager: owns release planning, readiness gates, and deployment communications.
+- UX Designer: leads user research, wireframing, and usability validation.
+- Security Lead: defines security requirements, reviews code and architecture, leads incident response.
+- DevOps Engineer: builds and maintains CI/CD pipelines, infrastructure, and observability.
+- Business Analyst: elicits requirements, maps processes, and supports UAT.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+
+See [Roles & Personas](./octoacme-roles-and-personas.md) for full descriptions and interaction notes.
+See [RACI Matrix](./octoacme-raci-matrix.md) for artifact and activity ownership across roles.
 
 ## Key Artifacts
 - Project Charter / One-pager
