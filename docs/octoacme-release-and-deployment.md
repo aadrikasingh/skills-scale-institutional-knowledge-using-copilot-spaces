@@ -23,6 +23,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Run post-deploy verifications
 - [ ] Announce release to stakeholders and support
 
+> For the full pre-release gate checklist (scope, quality, security sign-off, and comms), see [Process Checklists — Release Readiness Checklist](./octoacme-process-checklists.md#2-release-readiness-checklist-pre-release-gate).
+
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
   - Trigger incident response and notify on-call
